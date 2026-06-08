@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(47, 0, 255);
+    text-align: center;
+    background: linear-gradient(to bottom,rgb(47, 0, 255) 0%,rgb(118, 90, 241) 50%,rgb(47, 0, 255) 100%) ;
+    
+}
+.Arko {
+    width: 200px;
+    height: auto;
+    border-radius: 100px 100px 100px 100px;
+}
+.Name {
+color: rgb(48, 178, 238);
+font-style: italic;
+font-weight: bold;
+}
+.Hobby {
+color: cornsilk;
+font-style: oblique;
+}
+.Introduction {
+color: aqua;
+font-size: large;
+}
+.Facts {
+    text-align: left;
+    color: rgb(207, 203, 241);
+    font-style: italic;
+}
+.Info {
+    text-align: left;
+    color: rgb(207, 203, 241);
+    
+}
+.Youtube {
+    background-color: azure;
+    border-radius: 6px;
+    padding: 12px 24px;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 10px;
+}
+.Instagram {
+    background-color: azure;
+    border-radius: 6px;
+    padding: 12px 24px;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 10px;
+}
+.h2title {
+    color: aqua;
+    text-align: left;
+    font-style: oblique;
+    font-weight: bold;
+}
+.info2 {
+    color: aquamarine;
+    font-size: large;
+    text-align: left;
+}
+.inside {
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+}
+.outside {
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+}
+.ending {
+    color: black;
+    font-weight: bold;
+}
+.schoolimage {
+    font-weight: bold;
+    color: aquamarine;
+    font-size: large;
+    text-align: left;
+}
